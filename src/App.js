@@ -3,6 +3,7 @@ import FruitContainer from './FruitContainer';
 
 const fruitList = [
   'Acai', 
+  'Apple2',
   'Aceola',
   'Apple',
   'Apricots',
